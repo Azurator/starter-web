@@ -10,6 +10,10 @@ the Git repository and various commands
 
 ## Purpose
 
+as stated above ....
+
 ## Deployment
+
+this is a simple project
 
 ## How To Contribute
