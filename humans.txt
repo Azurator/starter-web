@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pinco Palla - blah@blah.com  @blah@blah
 
 # THANKS
 
